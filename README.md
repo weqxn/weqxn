@@ -11,11 +11,11 @@ I'm a developer from Kazakhstan. I like shipping things people actually use: a f
 
 ---
 
-## 📚 TEXTESTBOOK
+## TEXTESTBOOK
 
 <img src="assets/textestbook-logo.png" alt="" width="56" align="left">
 
-**Upload a textbook — get tests.** AI reads a PDF, writes questions with explanations and page references, then builds a study plan with spaced repetition and a full practice **UNT (ЕНТ)**: 120 tasks, 240 minutes, real scoring.
+**Upload a textbook, get tests.** AI reads a PDF, writes questions with explanations and page references, then builds a study plan with spaced repetition and a full practice **UNT (ЕНТ)**: 120 tasks, 240 minutes, real scoring.
 
 <br clear="left">
 
@@ -32,12 +32,12 @@ I'm a developer from Kazakhstan. I like shipping things people actually use: a f
 
 **What's inside**
 
-- 🧠 AI question generation from any PDF textbook, with explanations and source pages
-- 🎯 Practice UNT mode with timer, question grid and score out of 140
-- 🗓️ Exam-date study plan and spaced repetition of mistakes
-- 🇰🇿 History of Kazakhstan chronology — 100 key dates turned into questions
-- 🌗 Three themes (light, dark, burgundy), Russian / Kazakh / English interface
-- ✅ 180+ backend tests, CI with Android E2E checks
+- AI question generation from any PDF textbook, with explanations and source pages
+- Practice UNT mode with timer, question grid and score out of 140
+- Exam-date study plan and spaced repetition of mistakes
+- History of Kazakhstan chronology: 100 key dates turned into questions
+- Three themes (light, dark, burgundy), Russian / Kazakh / English interface
+- 180+ backend tests, CI with Android E2E checks
 
 <p>
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white">
@@ -53,11 +53,11 @@ I'm a developer from Kazakhstan. I like shipping things people actually use: a f
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088ff?style=flat-square&logo=githubactions&logoColor=white">
 </p>
 
-👉 **Try it:** [textestbook.vercel.app](https://textestbook.vercel.app/welcome) · **Android:** [download the app](https://textestbook.vercel.app/app)
+**Try it:** [textestbook.vercel.app](https://textestbook.vercel.app/welcome) · **Android:** [download the app](https://textestbook.vercel.app/app)
 
 ---
 
-## 🧪 Isomeria
+## Isomeria
 
 <img src="assets/isomeria-logo.png" alt="" width="56" align="left">
 
@@ -78,15 +78,15 @@ I'm a developer from Kazakhstan. I like shipping things people actually use: a f
 
 **What's inside**
 
-- ⚛️ All 118 elements: electron configuration, atom diagram, isotopes, properties, discovery history and sources
-- 🧫 Virtual lab with 173 reagents and 551 verified reactions: colour changes, precipitates, gases, balanced equations
-- 💥 27 dangerous combinations that end in a lab accident, with an explanation of how to avoid it
-- 📊 8 simulators: crystal lattices, electrolysis, equilibrium, titration, gas laws, pH, reaction rate
-- 🧬 Organic chemistry with 38 rotatable 3D molecules and an IUPAC naming trainer
-- 🔥 Thermochemistry, kinetics and nuclear chemistry with calculators
-- ✏️ 147 problems at five levels, from beginner to olympiad, plus a personal learning path
-- 📚 Solubility table, activity series, glossary of 163 terms and printable reference tables
-- 🌗 Light and dark themes, Russian / Kazakh / English interface, data checked against IUPAC, NIST and PubChem
+- All 118 elements: electron configuration, atom diagram, isotopes, properties, discovery history and sources
+- Virtual lab with 173 reagents and 551 verified reactions: colour changes, precipitates, gases, balanced equations
+- 27 dangerous combinations that end in a lab accident, with an explanation of how to avoid it
+- 8 simulators: crystal lattices, electrolysis, equilibrium, titration, gas laws, pH, reaction rate
+- Organic chemistry with 38 rotatable 3D molecules and an IUPAC naming trainer
+- Thermochemistry, kinetics and nuclear chemistry with calculators
+- 147 problems at five levels, from beginner to olympiad, plus a personal learning path
+- Solubility table, activity series, glossary of 163 terms and printable reference tables
+- Light and dark themes, Russian / Kazakh / English interface, data checked against IUPAC, NIST and PubChem
 
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black">
@@ -100,4 +100,4 @@ I'm a developer from Kazakhstan. I like shipping things people actually use: a f
 
 Design, data verification and original idea: Viktoria Alpatova.
 
-👉 **Try it:** [isomeria.vercel.app](https://isomeria.vercel.app)
+**Try it:** [isomeria.vercel.app](https://isomeria.vercel.app)
