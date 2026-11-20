@@ -1,4 +1,4 @@
-<img src="assets/banner.jpg" alt="Aleksey Kokorev, building TEXTESTBOOK" width="100%">
+<img src="assets/banner.png" alt="Aleksey Kokorev, future cybersecurity specialist" width="100%">
 
 <p>
   <a href="https://textestbook.vercel.app/welcome"><img alt="Website" src="https://img.shields.io/badge/website-textestbook.vercel.app-b3123f?style=for-the-badge"></a>
