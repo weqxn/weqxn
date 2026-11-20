@@ -73,7 +73,7 @@ I'm a developer from Kazakhstan. I like shipping things people actually use: a f
     <td width="50%"><img src="assets/isomeria-lab.jpg" alt="Isomeria reaction lab"></td>
   </tr>
   <tr>
-    <td align="center"><b>Periodic table</b>, light theme</td>
+    <td align="center"><b>Elements</b>, light theme</td>
     <td align="center"><b>Reaction lab</b>, dark theme</td>
   </tr>
 </table>
