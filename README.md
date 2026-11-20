@@ -9,8 +9,6 @@
 
 I'm a developer from Kazakhstan. I like shipping things people actually use: a full product, from the database to the Android app.
 
-*Привет! Делаю TEXTESTBOOK — сервис, который превращает учебники в тесты и пробный ЕНТ.*
-
 ---
 
 ## 📚 TEXTESTBOOK
